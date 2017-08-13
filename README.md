@@ -6,7 +6,7 @@ This DYI/Citizen Scientist Training Series teaches you the best pactieces in "wo
 
 - **Anyone can work on science projects without academia...**
 - **...allowing _everyone_ to be invited to collaborate on something amazing**
-**...and any new product or knowledge is shared widely and freely.**
+- **...and any new product or knowledge is shared widely and freely.**
     
 ## Contributing
 
