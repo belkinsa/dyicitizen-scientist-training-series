@@ -1,4 +1,4 @@
-#DYI/Citizen Scientist Training Series
+# DYI/Citizen Scientist Training Series
 
 How to be a DYI/citizen scientist and work with others openly
 
